@@ -8,7 +8,7 @@ import { ProjectsComponent } from './pages/projects/projects.component';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
 
 export const routes: Routes = [
-  { path: '', component: LandingComponent },   // default route
+  { path: '', component: LandingComponent }, // default route
   { path: 'about', component: AboutComponent },
   { path: 'resume', component: ResumeComponent },
   { path: 'projects', component: ProjectsComponent },
