@@ -10,6 +10,13 @@ h2 {
   border-radius: 10rem;
 }
 
+.bucket_photo {
+  display: block;
+  width: 320px;
+  height: auto;
+  border-radius: 5rem;
+}
+
 #home {
   margin: 0 15rem 0 15rem;
 }
@@ -19,6 +26,22 @@ h2 {
   align-items: center;
   gap: 5rem;
   font-size: 2rem;
+}
+
+#home_bottom {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+  font-size: 2rem;
+  margin-bottom: 10rem;
+}
+
+#home_bottom ul li {
+  margin-bottom: 1.5rem;
+}
+
+#h2_bottom {
+  margin-top: 10rem;
 }
 
 button {
