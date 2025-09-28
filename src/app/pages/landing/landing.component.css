@@ -12,13 +12,13 @@ h2 {
 
 .bucket_photo {
   display: block;
-  width: 320px;
+  width: 450px;
   height: auto;
   border-radius: 5rem;
 }
 
 #home {
-  margin: 0 15rem 0 15rem;
+  margin: 0 10rem 0 10rem;
 }
 
 #home_top {
