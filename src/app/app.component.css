@@ -8,12 +8,13 @@
   padding: 1rem 2rem;
   border-radius: 8px;
   margin: 0.5rem;
+  font-size: 2rem;
 }
 
 .navbar .logo a {
   color: #142946;
   /* dark text for contrast */
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   font-weight: bold;
   text-decoration: none;
 }
@@ -25,6 +26,7 @@
 }
 
 .nav-links a {
+  background-color: pink;
   color: #142946;
   text-decoration: none;
   font-weight: 500;
@@ -58,6 +60,7 @@
   color: #142946;
   border-radius: 8px;
   margin: 0.5rem;
+  font-size: 1.3rem;
 }
 
 .footer a {

@@ -1,0 +1,38 @@
+h2 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.about_photo {
+  display: block;
+  width: 320px;
+  height: auto;
+  border-radius: 10rem;
+}
+
+#home {
+  margin: 0 15rem 0 15rem;
+}
+
+#home_top {
+  display: flex;
+  align-items: center;
+  gap: 5rem;
+  font-size: 2rem;
+}
+
+button {
+  background-color: pink;
+  color: #142946;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #f7d1d1; /* pastel pink hover */
+  text-decoration: underline;
+  cursor: pointer;
+}
