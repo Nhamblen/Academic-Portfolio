@@ -6,4 +6,19 @@ iframe {
 #pdf_box {
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.download-btn {
+  background-color: pink; /* pastel pink */
+  color: #142946; /* dark text */
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s;
+}
+
+.download-btn:hover {
+  background-color: #f7d1d1;
 }
