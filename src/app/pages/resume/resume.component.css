@@ -1,0 +1,9 @@
+iframe {
+  border-radius: 8px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* subtle shadow */
+}
+
+#pdf_box {
+  display: flex;
+  justify-content: center;
+}
