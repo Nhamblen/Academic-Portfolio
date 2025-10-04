@@ -64,10 +64,17 @@
 }
 
 .footer a {
+  background-color: pink;
   color: #142946;
   text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  transition: background-color 0.3s;
 }
 
 .footer a:hover {
+  background-color: #f7d1d1; /* pastel pink hover */
   text-decoration: underline;
+  cursor: pointer;
 }
